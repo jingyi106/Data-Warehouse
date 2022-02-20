@@ -10,6 +10,8 @@ There are 3 script files. To run the scripts, Oracle Database environment is nee
    2. insertdata.sql: SQL code for inserting data into tables
    
    3. queries.sql: SQL code for data manipulation to handle ad-voc data request from cross-functional teams
+   
+   
 
 There are 4 result files
 
