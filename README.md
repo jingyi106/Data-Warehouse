@@ -11,6 +11,8 @@ There are 3 script files. Instructions to run the scripts
    1. Oracle Database environment is needed
    2. command:
       start your path\createtable.txt
+      
       start your path\inserttable.txt
+      
       start your path\queries.txt
 
