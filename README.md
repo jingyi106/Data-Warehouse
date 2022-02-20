@@ -13,7 +13,7 @@ There are 3 script files. Instructions to run the scripts
       
       start your path\createtable.txt
       
-      start your path\inserttable.txt
+      start your path\insertdata.txt
       
       start your path\queries.txt
 
